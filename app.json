@@ -17,6 +17,8 @@
       "supportsTablet": false
     },
     "android": {
+      "package": "com.rodruu.cinexperience",
+      "versionCode": 1,
       "backgroundColor": "#030303"
     },
     "web": {
