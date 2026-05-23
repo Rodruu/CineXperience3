@@ -1,0 +1,12 @@
+# Dependencias 
+node_modules/ 
+.expo/ 
+dist/ 
+.replit-artifact/ 
+.expo-shared/ 
+.DS_Store 
+*.log 
+*.tmp 
+.cache/ 
+npm-debug.log* 
+.env.local 
